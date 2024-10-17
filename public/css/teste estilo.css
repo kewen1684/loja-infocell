@@ -1,0 +1,15 @@
+/*
+sintaxe
+seletor{
+    propridade:valor;
+}
+*/
+p{
+ color:blue; /*altera a cor*/ 
+ font: size 16px;; /*altera o tamanho da fonte*/
+ 
+}
+h1{
+  color:red;/*altera a cor do titulo*/
+  font-size:16px
+}
